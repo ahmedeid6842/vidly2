@@ -1,0 +1,4 @@
+{"level":"error","message":"failed to connect to server [localhost:27017] on first connect [Error: connect ECONNREFUSED ::1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16) {\n  name: 'MongoNetworkError'\n}]","service":"user-service"}
+{"level":"info","message":"connected succesfully to database","service":"user-service"}
+{"level":"info","message":"connected succesfully to database","service":"user-service"}
+{"level":"info","message":"connected succesfully to database","service":"user-service"}
